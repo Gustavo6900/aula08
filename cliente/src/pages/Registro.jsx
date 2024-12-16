@@ -36,7 +36,7 @@ export default function Registrar() {
           <input type="email" value={email}  onChange={(event) => { setEmail(event.target.value)}} />
           <button>Salvar</button>
 
-        </form>
+        </form>z
       </main>  
   );
 }
